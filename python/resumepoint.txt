@@ -1,0 +1,16 @@
+AWS Services
+(VPC,EC2,ELB,S3,Route53,AutoScaling, KMS encryption, IAM, Code Star,
+SNSetc.) Infrastructure asa code(Cloud
+Formation, Terraform), CI/CD Delivery 
+Model, Code Deploy, Code Commit, AWS
+LAMBDA GIT, Jenkins, AWS Serverless
+Architecture Model (AWS SAM), Docker,
+Kubernetes
+▪ Delivering infrastructure services (IaaS, PaaS, SaaS), robust and reliable systems
+through rapid adaptation of technology capabilities, team motivation, and
+collaborative work with business partners(Amazon.
+▪ Experienced in AWS Management tool (Cloud Formation, CloudWatch,
+CloudTrail, Config, OpsWorks, Service Catalog, Trusted Advisor)
+▪ Lead the preparation activities ofrelease, change, incident, service request
+and problem management.
+▪ Exposure in disaster recovery, asset, configuration and

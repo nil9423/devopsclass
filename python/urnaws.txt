@@ -1,0 +1,9 @@
+1] https://awspolicygen.s3.amazonaws.com/policygen.html
+
+2] https://calculator.s3.amazonaws.com/index.html
+
+3] https://www.avast.com/c-ip-address-public-vs-private
+
+4] https://www.guru99.com/ip-address-classes.html
+
+5] https://jodies.de/ipcalc?host=10.1.0.0&mask1=28&mask2=
