@@ -1,0 +1,5 @@
+1. Create a python based lambda function.
+2. Add 2 print statements.
+3. Create a funstion url.
+4. Get all IAM user from aws account. --- Optional.
+5. Upload a layer of pymsql

@@ -1,0 +1,93 @@
+What is cloud computing/what do you understand by cloud?
+
+
+What is AZ
+
+
+Difference is Region and AZ
+
+
+What is Autoscaling and autoscaling group
+
+
+What is virtualization? What is hypervisor?
+
+
+Name region specific services of AWS
+
+
+Non- region specific service of AWS
+
+
+Explain ec2 root device volume
+
+
+Diff types of instances in ec2
+
+
+Diff between spot, on-demand, reserved instance
+
+
+Describe Paas, Iaas, Saas
+
+
+How many S3 bucket can be created
+
+
+Diff between stop and terminate instance
+
+
+What is key pair, diff between public key private key
+
+
+Features of Amazon S3
+
+
+How do you monitor vpc
+
+
+layers of TCP-IP module
+
+
+What is Load balancer and it's type
+
+
+What is subnet? Why do we need to create/use subnet
+
+ 
+Storage class in S3
+
+
+What is security group
+
+
+Diff bet power user and administrative user
+
+
+How many subnet per vpc
+
+
+What is latency? It must be high or low?
+
+
+What AMI do?
+
+
+What is statefull and stateless firewall
+
+
+Can you change private ip address of ec2 while running or stop state instance?
+
+
+Policy you can set for user password?
+
+
+Steps involved in cloud formation
+
+With specified iP adress can ec2 instance be launched? If so, which Amazon service makes it possible
+
+Maximum limit of elastic IP anyone can produce
+
+Steps to create customised policy in IAM
+
+IAM best practices
